@@ -4,7 +4,7 @@
 #Examples: VS Code, PyCharm, Spyder,sublime txt,jupyter or even the default IDLE that comes with Python.
 
 
-#2)Python Interpreter / Runtime Environment – the actual Python installation on your system that can execute your code.
+#2)Python Interpreter / Runtime Environment /translater – the actual Python installation on your system that can execute your code.
 
 #visit-> python.org/downloads/
 # select your os 
